@@ -6,7 +6,6 @@ public class ContaTerminal {
         Scanner teclado = new Scanner(System.in);
 
         //Exibir as mensagens para os nossos usuários
-
         //Obter pelo Scanner os valores digitados no terminal
         System.out.println("Por favor, digite o número da sua conta: ");
         int numero = teclado.nextInt();
